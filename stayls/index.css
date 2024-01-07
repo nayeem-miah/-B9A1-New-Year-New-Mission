@@ -1,0 +1,135 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.contner-title{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    background-size: cover;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 60px;
+    
+
+}
+.contener-title-h{
+    color: #17f607;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;  
+    padding-top: 80px;
+    
+}
+.contener-title-p{
+    color: #46f606;
+    text-align: center;
+    
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 80px; 
+    height: 632px;
+    width: 490px;
+    margin: 80px 400px 350px;
+    
+}
+.div2{
+    width: 1600px;
+    /* height: 7335px; */
+    line-height: 20px;
+    background-color: #FFF;
+}
+.percent{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    
+
+}
+.percent-h{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    
+
+}
+
+.percent-p{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+.img-a{
+    /* width: 702.9px;
+    height: 450px; */
+    flex-shrink: 0;
+    margin-left:500px;
+    
+}
+.main{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top:50px;
+    display: flex;
+    
+}
+.main-hh{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7px;
+    padding: 99px;
+    margin-bottom: 20px;
+}
+.main-pp{
+    color: rgba(255, 255, 255, 0.80);
+    
+    font-size: 18px;  
+    font-weight: 400;
+    line-height: 30px; 
+    
+    margin-bottom: 10px;
+    
+    
+}
+.main-btn{
+    color: #362b2b;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.main-btn:hover{
+    background-color: #17f607;
+    color: #F00;
+
+}
+.pik{
+    
+width: 318px;
+height: 460px;
+padding:5px 0px 0px 0px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
