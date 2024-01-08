@@ -110,9 +110,9 @@ body{
     
 }
 .main-btn{
-    color: #362b2b;
+    color: #F00;
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
     text-transform: uppercase;
     margin-left: 40px;
@@ -132,6 +132,98 @@ body{
     justify-content: center;
     align-items: center;
     flex-shrink: 0;
+}
+.element{
+    margin-top: 100px;
+    width: 1580px;
+    height: 482px;
+    background:  rgba(255, 0, 0, 0.10);
+
+}
+.promary-color{
+    width: 400px;
+    height: 200px;
+    color: #F00;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 56px; 
+    text-transform: capitalize;
+}
+.element-title{
+    width: 510px;
+    height: 160px;
+    color: #070211;
+    font-size: 34px;
+    font-weight: 550px;
+    line-height: 56px;
+    text-transform: capitalize;
+    margin: 100px 385px 214px;
+    padding-top: 100px;
+    padding-left: 40px;
+}
+.selctor{
+    width: 1600px;
+    background:#FFF;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.selctor-title{
+    text-align: left;
+}
+.selctor-title-h{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.selctor-title-hh{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+
+}
+.selctor-title-p{
+    width: 393px;
+    height: 128px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+
+}
+.selctor-img{
+    border: 20px solid red;
+    border-radius: 460px;
+    padding: 20px;
+}
+
+
+.selctor-text-h{
+    width: 126px;
+    height: 50px;
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+.selctor-text-p{
+    width:270px;
+    height:90px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    /* margin-right: 0; */
+    
+
+}
+.selctor-text-im{
+    width: 140px;
+    height: 140px;
+
+
 }
 .main-contener{
     width: 1370px;
@@ -188,7 +280,7 @@ body{
     display: inline;
 }
 .item-title{
-    width: 1596px;
+    width: 1580px;
     height: 616px;
     border-radius: 16px;
     background: rgb(246, 220, 220);
@@ -251,7 +343,7 @@ body{
     color:#F00;
 }
 .footer{
-    width: 1600px;
+    width: 1580px;
     height: 609px;
     flex-shrink: 0;
     background: #070211;
@@ -269,17 +361,25 @@ body{
     font-size: 24px;
     font-weight: 500;
     line-height: 40px; 
-    margin: 50px 200px 50px 50px;
+    margin: 80px 200px 200px 50px;
 }
+.paragrapg-title-div{
+    line-height: 10px;
+    
+}
+
 .paragraph-title-p{
     
-    margin: 60px 230px 100px 500px;
+    margin:100px 140px 80px 380px;
+   
+
     
 }
 .paragraph-title-pp{
     width:211px;
     height: 40px;
-    margin: 0px 130px 50px 500px;
+    margin: 0px 130px 60px 400px;
+    
 }
 .image-icon{
     margin:0 40%;
