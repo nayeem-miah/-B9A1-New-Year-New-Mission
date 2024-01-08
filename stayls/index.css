@@ -187,3 +187,123 @@ body{
     height: 450px;
     display: inline;
 }
+.item-title{
+    width: 1596px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgb(246, 220, 220);
+    margin-top: 120px;
+    text-align: center;
+}
+
+
+.item-title-image{
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    margin-top: 80px;
+    
+}
+
+.item-title-i-h{
+    color: #070211;
+    
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.item-title-i-p{
+    width: 890px;
+    height: 64px;
+    color: rgba(7, 2, 17, 0.60);
+    margin-left: 25%;
+    
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.input{
+    width: 300px;
+    height: 70px;
+    margin-left: 38%;
+}
+.input-email{
+    font-size: 20px;
+    width: 180px;
+    height: 42px;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    text-align: center;
+    padding-bottom: 6px;
+    
+}
+.input-sub {
+    width: 100px;
+    height: 42px;
+    
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    
+    
+}
+.input-sub:hover{
+    background-color: #17f607;
+    color:#F00;
+}
+.footer{
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    background: #070211;
+}
+.paragraph-title{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px; 
+    display: flex;
+   
+}
+.paragraph-title-ph{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px; 
+    margin: 50px 200px 50px 50px;
+}
+.paragraph-title-p{
+    
+    margin: 60px 230px 100px 500px;
+    
+}
+.paragraph-title-pp{
+    width:211px;
+    height: 40px;
+    margin: 0px 130px 50px 500px;
+}
+.image-icon{
+    margin:0 40%;
+}
+.footer-end{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    display: flex;
+
+
+}
+.hh{
+    
+    width: 295px;
+    height: 29px;
+    margin-left: 50px;
+    margin-bottom: 120px;
+}
+.hhh{
+    width:145px;
+    height: 29px;
+    text-align: right;
+    margin-right: 50px;
+    margin-bottom: 120px;
+    margin-left:1120px;
+}
