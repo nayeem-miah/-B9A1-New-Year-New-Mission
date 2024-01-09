@@ -3,6 +3,8 @@ body{
     font-family: 'Merriweather', serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
+    padding:120px 140px;
+   
 }
 .contner-title{
     width: 1320px;
@@ -40,7 +42,7 @@ body{
 }
 .div2{
     width: 1600px;
-    /* height: 7335px; */
+    
     line-height: 20px;
     background-color: #FFF;
 }
@@ -69,8 +71,7 @@ body{
 
 }
 .img-a{
-    /* width: 702.9px;
-    height: 450px; */
+
     flex-shrink: 0;
     margin-left:500px;
     
@@ -138,6 +139,7 @@ body{
     width: 1580px;
     height: 482px;
     background:  rgba(255, 0, 0, 0.10);
+    border-radius: 20px;
 
 }
 .promary-color{
@@ -215,7 +217,7 @@ body{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px; 
-    /* margin-right: 0; */
+    
     
 
 }
@@ -225,6 +227,7 @@ body{
 
 
 }
+
 .main-contener{
     width: 1370px;
     border-radius: 15px;
